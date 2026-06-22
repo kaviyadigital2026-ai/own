@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MetaMinds Agency",
+  "description": "An elegant, modern multi-page educational platform offering online courses, tools, resources, and expert mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
